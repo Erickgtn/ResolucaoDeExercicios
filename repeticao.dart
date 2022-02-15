@@ -3,7 +3,7 @@ import 'dart:io';
 main() {
   int num = int.parse(stdin.readLineSync()!);
   for (int i = 0; i < num; i++) {
-    //repetição com for
+    //repetição com  estrutura for 
     print('for: $i');
   }
   
